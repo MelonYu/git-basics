@@ -1,0 +1,6 @@
+# git创建本地分支
+```git
+git init git-basics
+```
+会在hello_git目录下生成一个.git的目录，所有Git需要的数据和资源都存放在这个目录中.
+此时创建的分支是master分支。
